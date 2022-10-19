@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T17:14:28 IST" name="Default suite" finished-at="2022-10-07T17:15:25 IST" duration-ms="57301">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T17:14:28 IST" name="Default test" finished-at="2022-10-07T17:15:25 IST" duration-ms="57301">
+      <class name="KeywordsPractice.InvocationCountWithThreadPoolSizePractice">
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:21 IST" duration-ms="52987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:21 IST" duration-ms="52436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:22 IST" duration-ms="53450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:21 IST" duration-ms="53099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:20 IST" duration-ms="51666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:23 IST" duration-ms="54597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:25 IST" duration-ms="56722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:25 IST" duration-ms="57225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:23 IST" duration-ms="55053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="OpenBrowser()[pri:0, instance:KeywordsPractice.InvocationCountWithThreadPoolSizePractice@40cb8df7]" started-at="2022-10-07T17:14:28 IST" name="OpenBrowser" finished-at="2022-10-07T17:15:19 IST" duration-ms="50584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- KeywordsPractice.InvocationCountWithThreadPoolSizePractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
